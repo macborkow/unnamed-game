@@ -1,0 +1,5 @@
+WSAD for movement
+T for attack
+F1 for multiplayer (2nd player uses arrows for movement and + for attack)
+F5 for reset
+ESC to quit
