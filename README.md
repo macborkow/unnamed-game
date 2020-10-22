@@ -8,8 +8,8 @@ The compiled version is waiting in the build folder.
 
 ## Usage
 
-**WSAD** for moving around
-**T** for slashing
-**F1** for multiplayer (2nd player uses arrows for movement and + for attack)
-**F5** for reset
-**ESC** to quit
+* **WSAD** for moving around
+* **T** for slashing
+* **F1** for multiplayer (2nd player uses arrows for movement and + for attack)
+* **F5** for reset
+* **ESC** to quit
