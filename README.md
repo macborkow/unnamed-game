@@ -1,4 +1,4 @@
-# unnamed game
+# Unnamed game
 
 Creative name for my latest hobby project. It is a 2D platformer game with swords and jumping skeletons.
 
@@ -6,7 +6,7 @@ Creative name for my latest hobby project. It is a 2D platformer game with sword
 
 The compiled version is waiting in the build folder.
 
-## Usage
+## Controls
 
 * **WSAD** for moving around
 * **T** for slashing
