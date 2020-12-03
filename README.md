@@ -2,6 +2,8 @@
 
 Creative name for my latest hobby project. It is a 2D platformer game with swords and jumping skeletons.
 
+Made using an engine written from scratch in `C++` and `SFML`.
+
 ## Installation
 
 The compiled version is waiting in the build folder.
